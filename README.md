@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Regressão Linear - Simples e Múltipla
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A regressão linear é uma das técnicas de análise estatística mais comuns e utilizadas para prever relações entre variáveis. Ela é amplamente aplicada em diversas áreas, como economia, finanças, ciências sociais e biologia.
+Neste eBook, exploraremos os conceitos básicos, a aplicação prática e as nuances dessa poderosa ferramenta estatística.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Roteiro - ChatGPT
+- Texto - ChatGPT
+- Gráficos e Códigos em Python - VsCode
+- Formatação do texto - LibreOffice Write
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Foi perguntado ao ChatGPT para fazer um roteiro de um ebook sobre Regressão Linear Simples e Múltipla.
+- Cada tópico do roteiro foi perguntado ao ChatGPT.
+- Caso o texto apresentado pelo ChatGPT estivesse com pouca informação, ou com a falta dela ou com alguma informação incorreta, era solicitado ao ChatGPT o enriquecimento ou correção do texto.
+- Os códigos em python foram testados no VsCode e, caso necessário, corrigidos.
+- Os gráficos foram gerados no VsCode.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foram gerados um pdf de 78 páginas de um conteúdo que vai além do básico da regressão linear e sua implementação em python.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Devemos tomar cuidado com os conteúdos gerados pela IAs porque, durante a confecção deste ebook, foram encontrados diversos erros de gramática, de código, de matématica. Erros que mesmo pedindo por uma revisão continuavam errados.
+Geradores de imagem não conseguem gerar imagens simples, todas possuem alguma complexidade desnecessária.
