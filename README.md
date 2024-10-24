@@ -22,6 +22,6 @@ Neste eBook, exploraremos os conceitos básicos, a aplicação prática e as nua
 ## 🚀 Resultados
 Foram gerados um pdf de 78 páginas de um conteúdo que vai além do básico da regressão linear e sua implementação em python.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Devemos tomar cuidado com os conteúdos gerados pela IAs porque, durante a confecção deste ebook, foram encontrados diversos erros de gramática, de código, de matématica. Erros que mesmo pedindo por uma revisão continuavam errados.
 Geradores de imagem não conseguem gerar imagens simples, todas possuem alguma complexidade desnecessária.
